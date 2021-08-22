@@ -1150,7 +1150,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { 0, -22, -2.35 } // (Found from Creality config here: https://docs.wixstatic.com/ugd/f5a1c8_77037f55e5d542309d9fc178165c9f3f.pdf) 
+#define NOZZLE_TO_PROBE_OFFSET { -42, -6, -2.25 }
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
